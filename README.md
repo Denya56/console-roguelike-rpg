@@ -2,6 +2,7 @@
 Command console roguelike RPG game on Java
 
 Basic:
+
 	1. Storing info about the player:
 		Class, Health, Attack, Mana(Wizard only) points, xp, level, coins, X and Y position
 		There are 3? classes: Warrior, Scout, Wizard
@@ -11,7 +12,7 @@ Basic:
 		You can choose direction in the following way:
 		  	N
                   	↑
-             	   W ←     → E
+		   W ←     → E
                   	↓
                   	S
 	4. Added map elements:
