@@ -53,7 +53,7 @@ Basic:
 	8. NPC:
 		Merchant actually is an NPC. You can buy and sell items for coins
 	9. Lose/Win:
-		You love when your HP drops to or below 0
+		You lose when your HP drops to or below 0
 		You win when you defeat a final boss
 	10. Game map is infinte:
 		When you move to some direction map increases by 1 element in that direction
