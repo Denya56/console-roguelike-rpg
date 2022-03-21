@@ -1,5 +1,5 @@
 # console-roguelike-rpg
-Command console roguelike RPG game on Java
+Console turn-based roguelike RPG game on Java
 
 Basic:
 
